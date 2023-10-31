@@ -1,0 +1,9 @@
+@media(max-width:450px){
+    .form-footer{
+        width: 300px;
+        display: flex;
+    }
+    .footer{
+        text-align: center;
+    }
+}
